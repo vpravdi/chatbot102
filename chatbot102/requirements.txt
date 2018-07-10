@@ -1,0 +1,7 @@
+tensorflow
+colorama
+regex
+python-Levenshtein
+requests
+
+Make sure you import all this in the environment Vidya 
